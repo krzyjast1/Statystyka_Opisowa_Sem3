@@ -145,5 +145,18 @@ q3 - q1
 #Odchylenie ćwiartkowe
 (q3-q1)/2
 
+#INTERPRETACJA
+#
+# Średnia liczba powiadomień dziennie wyniosła 149.4 powiadomienia
+# 
+# Najczęściej pojawiającą się liczbą powiadomień jest 133
+# Mediana jest równa 133, a więc 50% dni miało mniej powiadomień, a 50% więcej.
+# Kwartyl pierwszy wynosi 113, czyli 25% najniższych obserwacji jest mniejsza niż 113
+# Kwartyl trzeci wynosi 172.5, czyli 25% największych obserwacji jest większa niż 172.5
+# Rozstęp danych to 213 - różnica między najniższą liczbą powiadomień, a najwyższą
+# Rozstęp międzykwartylowy wynosi 59.5, czyli 50% najbardziej centralnych mieści się w zakresie 59.5
+# Współczynnik zmienności wynosi ok. 35% czyli zmienność jest na przeciętnym poziomie
+# 
+# Szereg rozdzielczy wskazuje na silnie asymetryczny rozkład danych
 
 
